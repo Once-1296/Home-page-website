@@ -30,7 +30,7 @@ body, h1, h2, p, ul {
   
   /* Right iframe (Main content) */
   #right-frame {
-    width:79%;
+    width:77%;
     height: 1000px; /* Adjust as needed */
     border: none;
   }
